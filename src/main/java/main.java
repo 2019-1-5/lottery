@@ -3,6 +3,6 @@ public class main {
         System.out.println("hello,git");
         System.out.println("老弟啊");
         System.out.println("你想干啥，我要写个抽奖啊 aaaa ");
-        System.out.println("俺是eclipse推上来的 ");
+        System.out.println("俺是eclipse推上来的    ");
     }
 }
